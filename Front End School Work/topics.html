@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Topics to Explore</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="topics" content="Fun guitar topics to explore">
+    <link href="guitar.css" rel="stylesheet">
+    <link href="guitarPrint.css" rel="stylesheet" media="print">
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js">
+    </script>
+    <script>
+      $(function () {
+        setIFrameSize();
+        $(window).resize(function () {
+          setIFrameSize();
+        });
+      });
+
+      function setIFrameSize() {
+        var parentDivWidth = $("#myframe").parent().width();
+        var parentDivHeight = $("#myframe").parent().height();
+        $("#myframe")[0].setAttribute("width", parentDivWidth);
+        $("#myframe")[0].setAttribute("height", parentDivHeight);
+      }
+    </script>
+  </head>
+  <header class="home">
+    <h1><a href="index.html">Guitarist's Hero</a></h1>
+  </header>
+
+  <main>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="exercises.html">Exercises</a></li>
+        <li><a href="tabs.html">Tabs</a></li>
+        <li><a href="topics.html">Topics</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+    <div id="wrapper">
+      <h1><span style="font-style: italic">Helpful Videos</span></h1>
+      <p>
+        The playlist below contains videos I think do a good job explaining fun topics ranging from
+        soloing, the blues, to small music theory. I hope you enjoy!
+      </p>
+      <div class="container">
+        <iframe class="iframe-class" src="https://www.youtube.com/embed/videoseries?list=PLVfbYaOIDn65aHwojv5P0zOWaKi1h_jaZ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </main>
+  <footer>
+    Copyright &copy; 2022 Guitarist's Hero<br>
+    <a href="mailto:jm271776@my.stchas.edu">jm271776@my.stchas.edu</a>
+  </footer>
+</html>

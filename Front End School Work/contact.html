@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Contact Us!</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="contact" content="We need your feedback on what makes us better">
+    <link href="guitar.css" rel="stylesheet">
+    <link href="guitarPrint.css" rel="stylesheet" media="print">
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+  </head>
+  <header class="home">
+    <h1><a href="index.html">Guitarist's Hero</a></h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="exercises.html">Exercises</a></li>
+      <li><a href="tabs.html">Tabs</a></li>
+      <li><a href="topics.html">Topics</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+  <div id="wrapper">
+    <main>
+      <h2>Contact Guitarist's Hero</h2>
+      <p>
+        Fill out the form below to contact Guitarist's Hero for any suggestions on changes or content. All information is required.
+      </p>
+      <form method="post" action="https://webdevbasics.net/scripts/demo.php">
+        <label for="myName">Name:</label>
+        <input type="text" name="myName" id="myName" required>
+        <label for="myEmail">E-mail:</label>
+        <input type="email" name="myEmail" id="myEmail" required>
+        <label for="myRefer">How did you hear about us?</label>
+        <input type="text" name="myRefer" id="myRefer" list="referral" required>
+        <datalist id="referral">
+          <option value="Google">
+          <option value="Bing">
+          <option value="Facebook">
+          <option value="Friend">
+          <option value="RadioAd" label="Radio Ad">
+        </datalist>
+        <label for="myComments">Comments:</label>
+        <textarea name="myComments" id="myComments" rows="2" cols="20" required></textarea>
+        <input type="submit" id="mySubmit" value="Send Now">
+      </form>
+    </main>
+  </div>
+  <footer>
+    Copyright &copy; 2022 Guitarist's Hero<br>
+    <a href="mailto:jm271776@my.stchas.edu">jm271776@my.stchas.edu</a>
+  </footer>
+</html>
