@@ -1,2 +1,2 @@
-# StackSkills-Projects
-# This is a follow along project to create a text based RPG
+# Text-based Python Turn Based RPG
+This is a work in progress. Coded in python.
