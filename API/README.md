@@ -1,4 +1,4 @@
-# TrussWorks-SWAPI Project
+# Star Wars API Project
 
 Since the project is incomplete, running the program requires an IDE capable of using Jupyter Notebooks.
 
