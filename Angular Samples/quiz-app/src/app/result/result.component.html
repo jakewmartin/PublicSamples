@@ -1,0 +1,5 @@
+<!-- result.component.html-->
+<h2>Quiz Results</h2>
+<p *ngFor="let result of quizResults">
+  Question: {{ result.question }} | Your Answer: {{ result.userAnswer }} | Correct Answer: {{ result.correctAnswer }}
+</p>
