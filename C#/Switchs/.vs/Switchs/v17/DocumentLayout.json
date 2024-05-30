@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\Switchs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9A6538-7494-4C85-9BAB-1A953E92046E}|Switchs\\Switchs.csproj|c:\\users\\jmart\\documents\\code\\publicsamples\\c#\\switchs\\switchs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9A6538-7494-4C85-9BAB-1A953E92046E}|Switchs\\Switchs.csproj|solutionrelative:switchs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\Switchs\\Switchs\\Program.cs",
+              "RelativeDocumentMoniker": "Switchs\\Program.cs",
+              "ToolTip": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\Switchs\\Switchs\\Program.cs",
+              "RelativeToolTip": "Switchs\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:17:35.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.pdb

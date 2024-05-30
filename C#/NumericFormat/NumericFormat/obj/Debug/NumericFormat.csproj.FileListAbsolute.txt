@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\bin\Debug\NumericFormat.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\bin\Debug\NumericFormat.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\bin\Debug\NumericFormat.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\obj\Debug\NumericFormat.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\obj\Debug\NumericFormat.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\obj\Debug\NumericFormat.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\NumericFormat\NumericFormat\obj\Debug\NumericFormat.pdb

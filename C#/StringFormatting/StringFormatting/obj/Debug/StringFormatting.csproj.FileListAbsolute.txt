@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb

@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\bin\Debug\EmptyStrings.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\bin\Debug\EmptyStrings.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\bin\Debug\EmptyStrings.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\obj\Debug\EmptyStrings.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\obj\Debug\EmptyStrings.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\obj\Debug\EmptyStrings.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\EmptyStrings\EmptyStrings\obj\Debug\EmptyStrings.pdb

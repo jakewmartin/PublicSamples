@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\bin\Debug\TryParseFunc.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\bin\Debug\TryParseFunc.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\bin\Debug\TryParseFunc.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\obj\Debug\TryParseFunc.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\obj\Debug\TryParseFunc.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\obj\Debug\TryParseFunc.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TryParseFunc\TryParseFunc\obj\Debug\TryParseFunc.pdb

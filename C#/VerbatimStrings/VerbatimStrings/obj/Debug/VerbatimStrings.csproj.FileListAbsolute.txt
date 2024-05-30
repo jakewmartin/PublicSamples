@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\bin\Debug\VerbatimStrings.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\bin\Debug\VerbatimStrings.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\bin\Debug\VerbatimStrings.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\obj\Debug\VerbatimStrings.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\obj\Debug\VerbatimStrings.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\obj\Debug\VerbatimStrings.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\VerbatimStrings\VerbatimStrings\obj\Debug\VerbatimStrings.pdb

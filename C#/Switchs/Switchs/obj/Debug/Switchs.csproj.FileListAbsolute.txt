@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\bin\Debug\Switchs.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\bin\Debug\Switchs.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\bin\Debug\Switchs.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\obj\Debug\Switchs.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\obj\Debug\Switchs.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\obj\Debug\Switchs.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\Switchs\Switchs\obj\Debug\Switchs.pdb
