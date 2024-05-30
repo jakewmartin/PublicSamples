@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\StringIterrLooping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54541EFE-99F2-4D8F-B130-6F9E0EB86254}|StringIterrLooping\\StringIterrLooping.csproj|c:\\users\\jmart\\documents\\code\\publicsamples\\c#\\stringiterrlooping\\stringiterrlooping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54541EFE-99F2-4D8F-B130-6F9E0EB86254}|StringIterrLooping\\StringIterrLooping.csproj|solutionrelative:stringiterrlooping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\StringIterrLooping\\StringIterrLooping\\Program.cs",
+              "RelativeDocumentMoniker": "StringIterrLooping\\Program.cs",
+              "ToolTip": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\StringIterrLooping\\StringIterrLooping\\Program.cs",
+              "RelativeToolTip": "StringIterrLooping\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:54:31.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

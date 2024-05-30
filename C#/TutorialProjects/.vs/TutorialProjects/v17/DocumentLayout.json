@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\TutorialProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CE8744-462B-4195-AE24-33504A273ACC}|MyFirstProject\\MyFirstProject.csproj|c:\\users\\jmart\\documents\\code\\publicsamples\\c#\\tutorialprojects\\myfirstproject\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CE8744-462B-4195-AE24-33504A273ACC}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\TutorialProjects\\MyFirstProject\\Exercise1.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Exercise1.cs",
+              "ToolTip": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\TutorialProjects\\MyFirstProject\\Exercise1.cs",
+              "RelativeToolTip": "MyFirstProject\\Exercise1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:07:39.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

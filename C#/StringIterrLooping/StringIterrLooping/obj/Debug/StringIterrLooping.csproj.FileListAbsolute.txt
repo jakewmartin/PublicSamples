@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\bin\Debug\StringIterrLooping.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\bin\Debug\StringIterrLooping.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\bin\Debug\StringIterrLooping.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\obj\Debug\StringIterrLooping.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\obj\Debug\StringIterrLooping.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\obj\Debug\StringIterrLooping.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\StringIterrLooping\StringIterrLooping\obj\Debug\StringIterrLooping.pdb

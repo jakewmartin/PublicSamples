@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\bin\Debug\TimesTableExercise.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\bin\Debug\TimesTableExercise.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\bin\Debug\TimesTableExercise.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\obj\Debug\TimesTableExercise.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\obj\Debug\TimesTableExercise.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\obj\Debug\TimesTableExercise.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TimesTableExercise\TimesTableExercise\obj\Debug\TimesTableExercise.pdb

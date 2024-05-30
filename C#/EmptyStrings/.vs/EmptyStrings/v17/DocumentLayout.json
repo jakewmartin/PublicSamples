@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\EmptyStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49758DD-AA17-4D92-B0FD-8328328EEA67}|EmptyStrings\\EmptyStrings.csproj|c:\\users\\jmart\\documents\\code\\publicsamples\\c#\\emptystrings\\emptystrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49758DD-AA17-4D92-B0FD-8328328EEA67}|EmptyStrings\\EmptyStrings.csproj|solutionrelative:emptystrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\EmptyStrings\\EmptyStrings\\Program.cs",
+              "RelativeDocumentMoniker": "EmptyStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\jmart\\Documents\\Code\\PublicSamples\\C#\\EmptyStrings\\EmptyStrings\\Program.cs",
+              "RelativeToolTip": "EmptyStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:42:55.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

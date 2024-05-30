@@ -1,0 +1,12 @@
+<p>quiz works!</p>
+<div *ngFor="let q of questions; let i = index">
+  <h3>{{ q.question }}</h3>
+  <ul>
+    <li *ngFor="let option of q.options">
+      <label>
+        <input type="radio" name="{{i}}" [(ngModel)]="selectedOptions[i]" [value]="option"> {{ option }}
+      </label>
+    </li>
+  </ul>
+</div>
+<button (click)="submitQuiz()">Submit Quiz</button>

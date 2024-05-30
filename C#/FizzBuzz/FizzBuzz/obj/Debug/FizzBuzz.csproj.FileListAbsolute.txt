@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

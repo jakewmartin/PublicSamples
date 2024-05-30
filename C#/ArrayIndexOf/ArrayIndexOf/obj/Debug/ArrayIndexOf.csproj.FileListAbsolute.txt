@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.pdb

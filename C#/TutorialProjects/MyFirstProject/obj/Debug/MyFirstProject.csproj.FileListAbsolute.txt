@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\TutorialProjects\MyFirstProject\obj\Debug\MyFirstProject.pdb

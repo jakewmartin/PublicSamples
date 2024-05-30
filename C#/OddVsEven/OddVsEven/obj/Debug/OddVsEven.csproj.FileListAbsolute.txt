@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\bin\Debug\OddVsEven.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\bin\Debug\OddVsEven.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\bin\Debug\OddVsEven.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\obj\Debug\OddVsEven.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\obj\Debug\OddVsEven.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\obj\Debug\OddVsEven.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\OddVsEven\OddVsEven\obj\Debug\OddVsEven.pdb

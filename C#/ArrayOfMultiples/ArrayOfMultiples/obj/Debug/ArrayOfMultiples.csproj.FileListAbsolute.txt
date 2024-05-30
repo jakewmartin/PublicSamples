@@ -1,0 +1,7 @@
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.AssemblyReference.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe.config
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.pdb
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.exe
+C:\Users\jmart\Documents\Code\PublicSamples\C#\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.pdb
